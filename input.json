@@ -1,0 +1,8 @@
+{
+  "sources": [
+    "wefunder"
+  ],
+  "maxPerSource": 5,
+  "statusFilter": "active",
+  "useProxy": true
+}
